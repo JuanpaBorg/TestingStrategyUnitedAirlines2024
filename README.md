@@ -2,7 +2,7 @@
 
 ## Punctrually, a Testing Strategy for the Flights from Chicago Page 
 
-This document outlines the testing strategy for the "Flights from Chicago" page of the United Airlines website. The goal is to ensure optimal performance, accurate information, and stringent security standards.
+This document outlines the testing strategy for the "Flights from Chicago" ✈ page of the United Airlines website/webapp. The goal is to asure Basic Correct Functionality, Optimal Performance, Accurate and Reliable Information, and Stringent Security Standards.
 
 ## Overview
 The testing strategy covers various aspects including functional testing, performance testing, security testing, compatibility testing, usability testing, regression testing, localization, and internationalization testing, accessibility testing, and disaster recovery testing.
