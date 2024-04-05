@@ -1,5 +1,5 @@
 # Testing Strategy for United Airlines Web App - 2024
-To this scope, the Testing Strategy only will cover the "Flights from Chicago Page" 
+To this scope, the Testing Strategy only will cover the "Flights from Chicago Page", and the test cases for  
 
 ## Testing Strategy for the Flights from Chicago Page 
 This document outlines the testing strategy for the "Flights from Chicago" ✈ page of the United Airlines website/webapp. The goal is to asure Basic Correct Functionality, Optimal Performance, Accurate and Reliable Information, and Stringent Security Standards.
@@ -35,4 +35,8 @@ By following this comPrehensive testing strategy, I aim to guaRantee that the "F
   -  [ ] sarasa
 -  [ ] [**Cucumber BDD Test Cases** for The Search Fligts Functionality]()
   -  [ ] Search Fligths Test Cases
+
+# Technical Approach of this solution
+
+TODO: Insert Technical readme here 
  
