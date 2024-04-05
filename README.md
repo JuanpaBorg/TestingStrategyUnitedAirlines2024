@@ -1,13 +1,15 @@
 # Testing Strategy for United Airlines Web App - 2024
+To this scope, the Testing Strategy only will cover the "Flights from Chicago Page" 
 
-## Punctrually, a Testing Strategy for the Flights from Chicago Page 
-
+## Testing Strategy for the Flights from Chicago Page 
 This document outlines the testing strategy for the "Flights from Chicago" ✈ page of the United Airlines website/webapp. The goal is to asure Basic Correct Functionality, Optimal Performance, Accurate and Reliable Information, and Stringent Security Standards.
 
 ## Overview
-The testing strategy covers various aspects including functional testing, performance testing, security testing, compatibility testing, usability testing, regression testing, localization, and internationalization testing, accessibility testing, and disaster recovery testing.
+The testing strategy covers various aspects including functional testing, performance testing, security testing, compatibility testing, usability testing, regression testing, localization, and internationalization testing, accessibility testing, and disaster recovery testing, _for this excercize, as stated, only will be given coverage to the Search Functionality and its Fligts Components_  .
 
 ## Test Categories
+While developing the testing strategy this Variety of tests come along to cover the overall experience in this page:
+
 1. **Test Planning**: Understand requirements, define objectives, identify techniques, and allocate resources.
 2. **Functional Testing**: Covers search functionality, daily fares display, information panel, and popular deals table.
 3. **Performance Testing**: Evaluates page load time, server response time, and system performance under peak loads.
