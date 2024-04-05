@@ -28,8 +28,11 @@ By following this comPrehensive testing strategy, I aim to guaRantee that the "F
 
 ## Useful Links:
 
-[] [Testing Strategy Document](https://github.com/yourusername/yourrepository/blob/main/testing_strategy.md)
-[] [**POM Test Cases** for The Search Fliegts Functionality]()
-[] [**Cucumber BDD Test Cases** for The Search Fligts Functionality]()
-
-[Flights from Chicago Page Testing Strategy](https://github.com/yourusername/yourrepository/blob/main/testing_strategy.md)
+-  [ ] [Testing Strategy Document](https://github.com/yourusername/yourrepository/blob/main/testing_strategy.md)
+  -  [ ] Functional Testing
+-  [ ] [**POM Test Cases** for The Search Fliegts Functionality]()
+  -  [ ] 
+  -  [ ] 
+-  [ ] [**Cucumber BDD Test Cases** for The Search Fligts Functionality]()
+  -  [ ] Search Fligths Test Cases
+ 
