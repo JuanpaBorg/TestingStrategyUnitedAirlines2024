@@ -1,4 +1,3 @@
-#Author: Raghwen@QATechTesting.com
 Feature: Home Page Verifications
 
   @search_page
