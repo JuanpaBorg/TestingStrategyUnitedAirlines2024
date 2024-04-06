@@ -1,4 +1,9 @@
 # Feature: Home Page Verifications
+_[Return to readme](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/README.md)_
+
+This is the Web Application that is going to be tested, with its Search Functionality that covers mainly the Origin and Destination Inputs, also the respective Departure and Return Dates, a Search Button, a Table of Results. 
+![[picture of the webapp](https://www.united.com/en-us/flights-from-chicago-to-san-francisco)](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/assets/23565010/543b5ac5-0294-42c6-a64a-5cd10b7a43d2)
+
 
   ## Scenario: Verify search box is prominently displayed
   **Description:**
@@ -73,4 +78,5 @@
   **Expected Results:**
   - Flight details, prices, and availability should be displayed in the search results for flights from "Chicago" to "New York" on "2024-04-01".
 
-  
+
+_[Return to readme](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/README.md)_
