@@ -9,7 +9,7 @@ _[Return to readme](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2
 
 ## 2. Functional Testing:
 
-### Search Functionality: (developed on the [01_VerifySearchFunctionality_SearchPage.feature]() file, as requested in the excercize) 
+### Search Functionality: (developed on the [01_VerifySearchFunctionality_SearchPage.feature](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/resources/features/SearchPage/01_VerifySearchFunctionality_SearchPage.feature) file, as requested in the excercise) 
    - Test case 1: Verify that the search box is prominently displayed on the page.
    - Test case 2: Verify that the search box accepts input for destination.
    - Test case 3: Verify that the search results are relevant and accurate.
