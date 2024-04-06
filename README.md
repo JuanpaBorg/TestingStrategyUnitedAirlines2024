@@ -32,15 +32,15 @@ By following this comPrehensive testing strategy, I aim to guaRantee that the "F
 
 ## Useful Links:
 
--  [ ] **[Testing Strategy Document](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/Testing%20Strategy.md)**
-  -  [ ] [Test Cases](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/Test%20Cases.md) for the **"Search Fligths"** Section
+-  **[Testing Strategy Document](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/Testing%20Strategy.md)**:
+  -  [Test Cases](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/Test%20Cases.md) for the **"Search Fligths"** Section
 
--  [ ] **POM Test Cases** for The Search Fliegts Functionality
-  -  [ ] [Step Definitions](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/java/stepdefs/SearchPageSteps.java) for the **"Search Fligths"** Section
-  -  [ ] [Application Page class](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/java/ApplicationPages/SearchPage.java) for the **"Search Fligths"** Section
+-  **POM Test Cases** for The Search Fliegts Functionality:
+  -  [Step Definitions](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/java/stepdefs/SearchPageSteps.java) for the **"Search Fligths"** Section
+  -  [Application Page class](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/java/ApplicationPages/SearchPage.java) for the **"Search Fligths"** Section
 
--  [ ] **Cucumber BDD Test Cases** for The Search Fligts Functionality
-  -  [ ] [Test Scenarios _Written on Gherking, using Cucumber_](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/resources/features/SearchPage/01_VerifySearchFunctionality_SearchPage.feature) for the **"Search Fligths"** Section
+-  **Cucumber BDD Test Cases** for The Search Fligts Functionality:
+  -  [Test Scenarios _Written on Gherking, using Cucumber_](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/src/test/resources/features/SearchPage/01_VerifySearchFunctionality_SearchPage.feature) for the **"Search Fligths"** Section
 
 # Technical Approach of this project
 
