@@ -1,4 +1,5 @@
 # Testing Strategy for "Flights from Chicago" Page:
+_[Return to readme](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/README.md)_
 
 ## 1. Test Planning:
    - Understand the requirements thoroughly.
@@ -68,3 +69,5 @@
 ## 10. Disaster Recovery Testing:
    - Simulate system failures and assess the recovery process.
    - Verify data backup mechanisms and disaster recovery plans.
+
+_[Return to readme](https://github.com/JuanpaBorg/TestingStrategyUnitedAirlines2024/blob/main/README.md)_
